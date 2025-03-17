@@ -104,9 +104,6 @@
                 <groupId>org.sonarsource.scanner.maven</groupId>
                 <artifactId>sonar-maven-plugin</artifactId>
                 <version>3.4.0.905</version>
-                <configuration>
-                    <sonar.host.url>http://192.168.72.152:9000</sonar.host.url>
-                </configuration>
             </plugin>
         </plugins>
     </build>
